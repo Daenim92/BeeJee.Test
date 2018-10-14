@@ -1,3 +1,3 @@
 # BeeJee.Test
 
-gen: https://next.json-generator.com/4JeSWL3qB
+gen: https://next.json-generator.com/41_y_U3cB
